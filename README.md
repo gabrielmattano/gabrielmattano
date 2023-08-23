@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @gabrielmattano
-- 👀 I’m interested in working on frontend projects and mobile models including UX/UI projects. In fact, i want to know it all, even in building systems from scratch.
+- 👀 I’m interested in working on frontend projects and mobile models including UX/UI projects. In fact, i want to know it all, even building systems from scratch.
 - 🌱 I’m currently learning Git, building an application to acces a database and controlling versions. I'm also learning how to build web pages to apply javascript.
 - 💞️ I’m looking to choose a study trail, to get to know what can i do better and to focus on that specialization.
 - 📫 How to reach me: https://www.linkedin.com/in/gabriel-mattano/
